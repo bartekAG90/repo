@@ -1,0 +1,2 @@
+/Users/fanglinchen/Documents/cs65-W15/Maya_Poddar/lab2/MyRunsDataCollector/app/build/intermediates/classes/debug
+/Users/fanglinchen/Documents/cs65-W15/Maya_Poddar/lab2/MyRunsDataCollector/app/build/intermediates/pre-dexed/debug/weka-ebd6ecdcec2dab4e09cd977136e4a7c35edda60e.jar
